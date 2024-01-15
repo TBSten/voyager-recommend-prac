@@ -1,0 +1,7 @@
+gensim==4.3.2
+mecab-python3==1.0.8
+numpy==1.26.3
+scipy==1.11.4
+smart-open==6.4.0
+unidic-lite==1.0.8
+voyager==2.0.2
